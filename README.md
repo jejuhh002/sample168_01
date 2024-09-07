@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-    <meta charset="UTF-8">
-    <title>Layout01</title>
+
     <style>
         body {background: #c8e6c9;}
         #wrap {width: 1000px; height: 900px; margin: 0 auto; color: #fff; font-size: 40px; text-align: center;}
@@ -11,9 +7,8 @@
         #side {float: left; width: 300px; height: 600px; line-height: 600px; background: #43a047;}
         #contents {float: left; width: 700px; height: 600px; line-height: 600px; background: #4caf50;}
         #footer {float: left; width: 1000px; height: 100px; line-height: 100px; background: #66bb6a;}
-</style>
-</head>
-<body>
+
+
     <div id="wrap">
         <div id="header">HEADER</div>
         <div id="nav">NAV</div>
@@ -21,6 +16,6 @@
         <div id="contents">CONTENTS</div>
         <div id="footer">FOOTER</div>
     </div>
-</body>
-</html>
+
+
 
